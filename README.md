@@ -28,9 +28,12 @@
 <summary>Lista de Conteúdos </summary>
 
 ### Linguagens Estudadas
+##### Última Atualização: 11/10/23
 - HTML5
-    - Semantica
     - Tags
+    - Semantica
+    - Estrutura HTML
+    - Formatação de Textos
 - CSS
 - JavaScript
     - Funções
