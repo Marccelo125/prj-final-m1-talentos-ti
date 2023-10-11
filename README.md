@@ -9,7 +9,7 @@
 
 > [!WARNING]
 > Para executar este projeto basta acessar o
-[Projeto final do módulo 01](https://github.com/Marccelo125/prj-final-m1-talentos-ti/index.html)
+[Projeto final do módulo 01](https://marccelo125.github.io/prj-final-m1-talentos-ti/)
 > Inspecionar a página (F12 no Chrome) e ir até a aba console.
 > Todos os dados que o programa retornar aparecerão lá!
 > Caso precise apenas digite 6 e dê Enter, o programa se encerrara e basta recarregar para voltar ao normal.
